@@ -114,4 +114,5 @@ My research experience has further solidified my data analysis and engineering c
 
 ### 📊 My GitHub Stats
 
-[![Vaibhav's GitHub Stats](
+[![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbommisetty&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbommisetty&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

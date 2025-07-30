@@ -72,6 +72,21 @@ Here are a few highlights from my work:
     * Constructed and optimized distributed data pipelines using Dask on AWS EC2 to handle terabytes of Amazon Reviews data.
     * *Skills:* Python, Dask, AWS EC2, Distributed Computing, Feature Engineering, Data Quality.
 
+* **[Malaria Diagnosis Algorithm](https://github.com/vbommisetty/Malaria-Diagnosis)**
+    * Designed scalable data ingestion pipelines for blood cell smear images, optimizing preprocessing for a CNN model.
+    * Deployed an optimized CNN model to Android devices using TensorFlow Lite for rapid, on-device diagnosis.
+    * *Skills:* Python, TensorFlow, CNN, Data Ingestion, Mobile Deployment, Image Processing.
+
+* **[Scalable Data Engineering with Dask on AWS](https://github.com/vbommisetty/DSC102-Dask-Amazon-Reviews)**
+    * Constructed and optimized distributed data pipelines using Dask on AWS EC2 instances to handle terabytes of Amazon Reviews and Products datasets.
+    * Designed and implemented feature engineering logic for comprehensive user profiles and executed robust data consistency checks.
+    * *Skills:* Python, Dask, AWS EC2, Distributed Computing, Feature Engineering, Data Quality.
+
+* **[Scalable ML Pipeline Development with Apache Spark](https://github.com/vbommisetty/DSC102-Spark-ML-Features)**
+    * Engineered complex feature pipelines and trained ML models using Apache Spark on large Amazon product and review datasets.
+    * Implemented diverse data transformations, dimensionality reduction, and model training/tuning.
+    * *Skills:* Python, Apache Spark, PySpark, Feature Engineering, Machine Learning, Distributed ML.
+
 ---
 
 ### 🔬 Applied Learning & Research

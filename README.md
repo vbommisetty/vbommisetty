@@ -12,7 +12,7 @@ I'm a passionate **Data Scientist** and aspiring **Software Data Engineer**, dri
 -   🏥 I'm particularly excited about the intersection of data engineering and health technology, seeking to contribute to innovative solutions that leverage data for real-world impact.
 -   💬 Ask me about **Python, SQL, or data modeling for sports or sales analytics!**
 -   📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
--   ⚡ Fun fact: I love watching [movies](https://boxd.it/5C3Nn), sports, and am learning how to surf!
+-   ⚡ Fun fact: I love watching [https://boxd.it/5C3Nn](https://letterboxd.com/fishv/films/), sports, and am learning how to surf!
 
 ---
 

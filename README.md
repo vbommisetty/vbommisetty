@@ -110,9 +110,3 @@ My research experience has further solidified my data analysis and engineering c
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbommisetty)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommisettyvaibhav@gmail.com)
 
----
-
-### 📊 My GitHub Stats
-
-[![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbommisetty&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbommisetty&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -10,7 +10,7 @@ I'm a passionate **Data Scientist** and aspiring **Software Data Engineer**, dri
 -   🌱 My academic journey and project work have equipped me with a strong foundation in **distributed computing, machine learning, and data pipeline development**.
 -   💡 I thrive on tackling complex data challenges, from designing efficient ETL processes to building predictive models and optimizing large-scale data workflows.
 -   🏥 I'm particularly excited about the intersection of data engineering and health technology, seeking to contribute to innovative solutions that leverage data for real-world impact.
--   💬 Ask me about **Python, SQL, Apache Spark, AWS, or data modeling!**
+-   💬 Ask me about **Python, SQL, or data modeling for sports or sales analytics!**
 -   📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
 -   ⚡ Fun fact: When I'm not immersed in data pipelines, I enjoy exploring hiking trails and playing competitive games.
 

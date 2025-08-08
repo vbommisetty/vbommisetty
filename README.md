@@ -14,8 +14,8 @@ I'm a passionate **Data Scientist** and aspiring **Software Data Engineer**, dri
 -   📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
 
 #### 🫶 My Loves
--   🎬 I love movies [my letterboxd](https://letterboxd.com/fishv/films/diary/)
--   🍝 I love cooking [my cooking album](https://vsco.co/fish-v/gallery)
+-   🎬 I love movies, check out [my letterboxd](https://letterboxd.com/fishv/films/diary/)!
+-   🍝 I love cooking, check out [my cooking album](https://vsco.co/fish-v/gallery)!
 -   🏀 I love watching sports - NBA, MLB, NFL
 
 ---
@@ -112,6 +112,5 @@ My research experience has further solidified my data analysis and engineering c
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-bommisetty)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbommisetty)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommisettyvaibhav@gmail.com)
 

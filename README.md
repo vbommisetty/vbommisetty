@@ -72,7 +72,7 @@ Here are a few highlights from my work:
     * Developed a predictive model to classify user interactions with recipes, leveraging popularity heuristics and similarity functions.
     * *Skills:* Python, Scikit-learn, Predictive Modeling, Feature Engineering, EDA, Data Cleaning
  
-* **[Malaria Diagnosis Algorithm](https://github.com/vbommisetty/Malaria-Diagnosis)**
+* **[Malaria Diagnosis Algorithm](https://github.com/vbommisetty/Malaria-Diagnosis)** 🦟
     * Designed scalable data ingestion pipelines for blood cell smear images, optimizing preprocessing for a CNN model.
     * Deployed an optimized CNN model to Android devices using TensorFlow Lite for rapid, on-device diagnosis.
     * *Skills:* Python, TensorFlow, CNN, Data Ingestion, Mobile Deployment, Image Processing

@@ -67,6 +67,11 @@ Here are a few highlights from my work:
     * Engineered Python-based data pipelines to ingest, clean, and filter complex neural recordings for scientific analysis.
     * Employed Probabalistic Canonical Correlation Analysis (PCCA) and Gaussian-Process Factor Analysis (GPFA) to identify interplay between brain regions.
     * *Skills:* Python, Data Pipelines, Neural Data, Data Transformation, Statistical Modeling
+ 
+* **[League of Legends Game Predictions](https://quenniezeng.github.io/League-of-Legends-Game-Predictions/)** 🧙🏻‍♂️
+    * Developed and fine-tuned a machine learning model to predict the outcome of professional League of Legends matches using only early-game statistics.
+    * Engineered new features to improve model performance, conducted a fairness analysis to evaluate accuracy across different game contexts, and selected a RandomForestClassifier() for its versatility and robustness.
+    * *Skills:* Python, Scikit-learn, Machine Learning, Feature Engineering, Data Analysis, Statistical Modeling
 
 * **[Recipes: User Interaction Predictor (Recommender System)](https://github.com/vbommisetty/Recipes)** 🍽️
     * Developed a predictive model to classify user interactions with recipes, leveraging popularity heuristics and similarity functions.
@@ -77,10 +82,6 @@ Here are a few highlights from my work:
     * Deployed an optimized CNN model to Android devices using TensorFlow Lite for rapid, on-device diagnosis.
     * *Skills:* Python, TensorFlow, CNN, Data Ingestion, Mobile Deployment, Image Processing
 
-* **[Scalable Data Engineering with Dask on AWS](https://github.com/vbommisetty/DSC102-Dask-Amazon-Reviews)** 
-    * Constructed and optimized distributed data pipelines using Dask on AWS EC2 to handle terabytes of Amazon Reviews data.
-    * *Skills:* Python, Dask, AWS EC2, Distributed Computing, Feature Engineering, Data Quality
-
 * **[Scalable Data Engineering with Dask on AWS](https://github.com/vbommisetty/DSC102-Dask-Amazon-Reviews)**
     * Constructed and optimized distributed data pipelines using Dask on AWS EC2 instances to handle terabytes of Amazon Reviews and Products datasets.
     * Designed and implemented feature engineering logic for comprehensive user profiles and executed robust data consistency checks.
@@ -90,6 +91,11 @@ Here are a few highlights from my work:
     * Engineered complex feature pipelines and trained ML models using Apache Spark on large Amazon product and review datasets.
     * Implemented diverse data transformations, dimensionality reduction, and model training/tuning.
     * *Skills:* Python, Apache Spark, PySpark, Feature Engineering, Machine Learning, Distributed ML
+ 
+* **[Visualizing California Migration Trends](https://github.com/vbommisetty/dsc106-final-project)**
+    * Developed an interactive web-based data visualization to explore California's recent population dip and analyze migration patterns.
+    * Utilized line plots and a choropleth map with interactive tooltips to uncover insights into how factors like housing prices, taxes, and job growth influence migration.
+    * *Skills:* D3.js, JavaScript, HTML, CSS, Data Visualization, Data Analysis
 
 ---
 

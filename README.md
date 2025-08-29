@@ -6,10 +6,9 @@ I'm a passionate **Data Scientist** and aspiring **Software Data Engineer**, dri
 
 ### 🚀 About My Professional Journey
 
--   🔭 I'm currently focused on leveraging data to deliver insights.
--   🌱 My academic journey and project work have equipped me with a strong foundation in **distributed computing, machine learning, and data pipeline development**.
+-   🌱 My academic journey and project work have equipped me with a strong foundation in **machine learning, distributed computing, and data pipeline development**.
 -   💡 I thrive on tackling complex data challenges, from designing efficient ETL processes to building predictive models and optimizing large-scale data workflows.
--   🏥 I'm particularly excited about the applications of data engineering with health technology, sports strategy, and sales analytics. I am seeking to contribute to innovative solutions that leverage data for real-world impact.
+-   🏥 I'm particularly excited about the applications of data engineering with sports strategy, health technology, and sales analytics. I am seeking to contribute to innovative solutions that leverage data for real-world impact.
 -   💬 Ask me about **Data Science for biology, sports, or sales analytics!**
 -   📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
 
@@ -63,7 +62,7 @@ Here are some of the technologies and tools I work with:
 
 Here are a few highlights from my work:
 
-* **[Hierarchical Latent Variable Models for Neural Data Analysis](https://github.com/vbommisetty/Hierarchical-Latent-Variable-Models-for-Neural-Data-Analysis)** 🧠
+* **[Hierarchical Latent Variable Models for Neural Data Analysis](https://vbommisetty.github.io/Hierarchical-Latent-Variable-Models-for-Neural-Data-Analysis/)** 🧠
     * Engineered Python-based data pipelines to ingest, clean, and filter complex neural recordings for scientific analysis.
     * Employed Probabalistic Canonical Correlation Analysis (PCCA) and Gaussian-Process Factor Analysis (GPFA) to identify interplay between brain regions.
     * *Skills:* Python, Data Pipelines, Neural Data, Data Transformation, Statistical Modeling

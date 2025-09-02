@@ -9,6 +9,7 @@ A concise and meticulous data analyst who thrives on tackling complex data chall
 📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
 
 #### 🫶 My Loves
+-   📊 I love data!
 -   🎬 I love movies, check out [my letterboxd](https://letterboxd.com/fishv/films/diary/)!
 -   🍝 I love cooking, check out [my cooking album](https://vsco.co/fish-v/gallery)!
 -   🏀 I love watching sports - NBA, MLB, NFL

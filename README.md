@@ -1,16 +1,12 @@
-### Hi, I'm Vaibhav :)
-
-I'm a passionate **Data Scientist** and aspiring **Software Data Engineer**, driven by transforming raw data into actionable insights and building robust, scalable data systems. I recently graduated with a Bachelor of Science in Data Science from the University of California - San Diego.
+### Welcome!
 
 ---
 
-### 🚀 About My Professional Journey
+### 🚀 About Me:
 
--   🌱 My academic journey and project work have equipped me with a strong foundation in **machine learning, distributed computing, and data pipeline development**.
--   💡 I thrive on tackling complex data challenges, from designing efficient ETL processes to building predictive models and optimizing large-scale data workflows.
--   🏥 I'm particularly excited about the applications of data engineering with sports strategy, health technology, and sales analytics. I am seeking to contribute to innovative solutions that leverage data for real-world impact.
--   💬 Ask me about **Data Science for biology, sports, or sales analytics!**
--   📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
+A concise and meticulous data analyst who thrives on tackling complex data challenges. From designing efficient ETL processes to building predictive models. A lean coder with expertise in SQL, Python, and cloud computing. Excelling at uncovering emerging patterns and creating impactful solutions by working cross-functionally with diverse teams. Always bringing a professional approach ensuring high-quality, efficient data pipelines and insightful analysis. Bringing a broad range of additional skillsets to include: data visualization, statistical analysis, and machine learning, allowing for deeper insights and communicate findings effectively.
+
+📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:bommisettyvaibhav@gmail.com)
 
 #### 🫶 My Loves
 -   🎬 I love movies, check out [my letterboxd](https://letterboxd.com/fishv/films/diary/)!

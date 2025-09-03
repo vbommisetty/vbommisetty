@@ -78,15 +78,10 @@ Here are a few highlights from my work:
     * Deployed an optimized CNN model to Android devices using TensorFlow Lite for rapid, on-device diagnosis.
     * *Skills:* Python, TensorFlow, CNN, Data Ingestion, Mobile Deployment, Image Processing
 
-* **[Scalable Data Engineering with Dask on AWS](https://github.com/vbommisetty/DSC102-Dask-Amazon-Reviews)**
-    * Constructed and optimized distributed data pipelines using Dask on AWS EC2 instances to handle terabytes of Amazon Reviews and Products datasets.
-    * Designed and implemented feature engineering logic for comprehensive user profiles and executed robust data consistency checks.
-    * *Skills:* Python, Dask, AWS EC2, Distributed Computing, Feature Engineering, Data Quality
-
-* **[Scalable ML Pipeline Development with Apache Spark](https://github.com/vbommisetty/DSC102-Spark-ML-Features)**
-    * Engineered complex feature pipelines and trained ML models using Apache Spark on large Amazon product and review datasets.
-    * Implemented diverse data transformations, dimensionality reduction, and model training/tuning.
-    * *Skills:* Python, Apache Spark, PySpark, Feature Engineering, Machine Learning, Distributed ML
+* **[Decision-Tree-Regression-for-Predicting-Amazon-Reviews](https://github.com/vbommisetty/Decision-Tree-Regression-for-Predicting-Amazon-Reviews)**
+    * Engineered and optimized distributed data pipelines using Apache Spark to handle large Amazon Reviews and Products datasets.
+    * Designed and implemented feature engineering logic for comprehensive user profiles and developed a `DecisionTreeRegressor` model to predict product ratings.
+    * *Skills:* Python, Apache Spark, PySpark, PySparkSQL, Distributed Computing, Feature Engineering, Machine Learning, Data Engineering
  
 * **[Visualizing California Migration Trends](https://github.com/vbommisetty/dsc106-final-project)**
     * Developed an interactive web-based data visualization to explore California's recent population dip and analyze migration patterns.

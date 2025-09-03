@@ -78,12 +78,12 @@ Here are a few highlights from my work:
     * Deployed an optimized CNN model to Android devices using TensorFlow Lite for rapid, on-device diagnosis.
     * *Skills:* Python, TensorFlow, CNN, Data Ingestion, Mobile Deployment, Image Processing
 
-* **[Decision-Tree-Regression-for-Predicting-Amazon-Reviews](https://github.com/vbommisetty/Decision-Tree-Regression-for-Predicting-Amazon-Reviews)**
+* **[Decision-Tree-Regression-for-Predicting-Amazon-Reviews](https://github.com/vbommisetty/Decision-Tree-Regression-for-Predicting-Amazon-Reviews)** ⚙️
     * Engineered and optimized distributed data pipelines using Apache Spark to handle large Amazon Reviews and Products datasets.
     * Designed and implemented feature engineering logic for comprehensive user profiles and developed a `DecisionTreeRegressor` model to predict product ratings.
     * *Skills:* Python, Apache Spark, PySpark, PySparkSQL, Distributed Computing, Feature Engineering, Machine Learning, Data Engineering
  
-* **[Visualizing California Migration Trends](https://github.com/vbommisetty/dsc106-final-project)**
+* **[Visualizing California Migration Trends](https://github.com/vbommisetty/dsc106-final-project)** 🌉
     * Developed an interactive web-based data visualization to explore California's recent population dip and analyze migration patterns.
     * Utilized line plots and a choropleth map with interactive tooltips to uncover insights into how factors like housing prices, taxes, and job growth influence migration.
     * *Skills:* D3.js, JavaScript, HTML, CSS, Data Visualization, Data Analysis

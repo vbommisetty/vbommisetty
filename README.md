@@ -2,15 +2,20 @@
 
 ### About Me:
 
-A concise and meticulous data analyst who thrives on tackling complex data challenges. From designing efficient ETL processes to building predictive models. A lean coder with expertise in SQL, Python, and cloud computing. Excelling at uncovering emerging patterns and creating impactful solutions by working cross-functionally with diverse teams. Always bringing a professional approach ensuring high-quality, efficient data pipelines and insightful analysis. Bringing a broad range of additional skillsets to include: data visualization, statistical analysis, and machine learning, allowing for deeper insights and communicate findings effectively.
+I am a meticulous data analyst who loves solving complex data challenges. My expertise spans the entire data lifecycle, from designing efficient ETL processes to building robust predictive models. As a lean coder, I specialize in SQL and Python and leverage cloud computing to build efficient data pipelines.
+
+I thrive on uncovering emerging patterns and creating impactful solutions by collaborating with diverse teams across different departments. My professional approach ensures the delivery of high-quality, efficient data pipelines and insightful analysis.
+
+With a broad range of additional skills in data visualization, statistical analysis, and machine learning, I'm able to dig deeper for insights and communicate my findings clearly and effectively.
 
 📫 How to reach me: [vaibommisetty@gmail.com](mailto:vaibommisetty@gmail.com)
 
 #### 🫶 My Loves
 -   📊 I love data!
--   🎬 I love movies, check out [my letterboxd](https://letterboxd.com/fishv/films/diary/)!
--   🍝 I love cooking, check out [my cooking album](https://vsco.co/fish-v/gallery)!
+-   🎬 I love movies, [my film diary](https://letterboxd.com/fishv/films/diary/)!
+-   🍝 I love cooking, [my cooking journal](https://vsco.co/fish-v/gallery)!
 -   🏀 I love watching sports - NBA, MLB, NFL
+-   🐟 I love fish!
 
 ---
 
@@ -25,6 +30,7 @@ Here are some of the technologies and tools I work with:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **Distributed Computing & Cloud:**
 

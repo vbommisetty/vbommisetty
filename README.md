@@ -1,8 +1,5 @@
 # Welcome! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-
----
-
 ### 🚀 About Me:
 
 A concise and meticulous data analyst who thrives on tackling complex data challenges. From designing efficient ETL processes to building predictive models. A lean coder with expertise in SQL, Python, and cloud computing. Excelling at uncovering emerging patterns and creating impactful solutions by working cross-functionally with diverse teams. Always bringing a professional approach ensuring high-quality, efficient data pipelines and insightful analysis. Bringing a broad range of additional skillsets to include: data visualization, statistical analysis, and machine learning, allowing for deeper insights and communicate findings effectively.

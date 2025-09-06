@@ -4,7 +4,7 @@
 
 A concise and meticulous data analyst who thrives on tackling complex data challenges. From designing efficient ETL processes to building predictive models. A lean coder with expertise in SQL, Python, and cloud computing. Excelling at uncovering emerging patterns and creating impactful solutions by working cross-functionally with diverse teams. Always bringing a professional approach ensuring high-quality, efficient data pipelines and insightful analysis. Bringing a broad range of additional skillsets to include: data visualization, statistical analysis, and machine learning, allowing for deeper insights and communicate findings effectively.
 
-📫 How to reach me: [bommisettyvaibhav@gmail.com](mailto:vaibommisetty@gmail.com)
+📫 How to reach me: [vaibommisetty@gmail.com](mailto:vaibommisetty@gmail.com)
 
 #### 🫶 My Loves
 -   📊 I love data!
@@ -106,6 +106,6 @@ My research experience has further solidified my data analysis and engineering c
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-bommisetty)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommisettyvaibhav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibommisetty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibommisetty@gmail.com@gmail.com)
 

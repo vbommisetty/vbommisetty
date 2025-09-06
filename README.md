@@ -1,4 +1,4 @@
-# Hi, I'm Vai! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+# Hi, I'm Vai! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="Animated Emoji" width="50" height="50">
 
 ### About Me:
 
